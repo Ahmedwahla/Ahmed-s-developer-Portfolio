@@ -1,6 +1,6 @@
 export const personalData = {
   name: "M AHMED SALAM",
-  profile: "/profile.jpg",
+  profile: "/Profile.jpg",
   designation: "Frontend Developer | Digital Marketer | UI/UX Designer",
   description:
     "I’m M Ahmed Salam — a creative Frontend Developer, UI/UX Specialist, and Digital Marketer passionate about building seamless, high-performing, and visually captivating websites. With expertise in React.js, Next.js, and modern web design, I craft user-centered digital experiences that drive engagement and growth. As the founder of Ecom Jump (UK), I combine technology, design, and marketing to help brands elevate their online presence and succeed in the digital world.",
